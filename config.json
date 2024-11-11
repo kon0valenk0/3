@@ -1,0 +1,8 @@
+{
+    "text_file": "text_file.txt",
+    "target_language": "ja",
+    "output": "screen",
+    "min_characters": 600,
+    "min_words": 94,
+    "min_sentences": 5
+}
