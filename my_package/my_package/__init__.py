@@ -1,0 +1,2 @@
+NAME = "Translator"
+AUTHOR = "KUKSOV DANILO 21015B"
